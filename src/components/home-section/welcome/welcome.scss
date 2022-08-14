@@ -23,6 +23,7 @@
 
             .btns > * ~ * {
                 margin-left: 1rem;
+              
             }
         }
     }
@@ -31,8 +32,8 @@
         @include flex(flex-end, flex-start);
 
         &__slide {
-            height: 915px;
-            width: 915px;
+            height: 700px;
+            width: 700px;
             overflow: hidden;
 
             canvas {

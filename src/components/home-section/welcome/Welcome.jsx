@@ -67,7 +67,7 @@ const Welcome = props => {
                         <span>Welcome To</span>
                         <h2 className="main-color">Summoner's Rift</h2>
                     </div>
-                    <div className="description m-t-4">
+                    <div className="description m-t-3">
                         Team up with friends and test your skills in 5v5 MOBA combat. All the high-skill competition you crave, designed especially for mobile and console with revamped controls and streamlined matches.Explore the living universe of Runeterra through lore, comics, games, and more. Then dive into the community of gamers, cosplayers, musicians, and content creators who are waiting for you to join them.
                     </div>
                     <div className="btns m-t-4">
